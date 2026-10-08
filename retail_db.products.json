@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6ac5cb4a4f78c65786165f31"
+  },
+  "product_id": 101,
+  "product_name": "Wireless Mouse",
+  "category": "Electronics",
+  "brand": "Logitech",
+  "price": 2057.0000000000005,
+  "stock": 25,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6ac5cd594f78c65786165f32"
+  },
+  "product_id": 102,
+  "product_name": "Mechanical Keyboard",
+  "category": "Electronics",
+  "brand": "Keychron",
+  "price": 5445,
+  "stock": 25,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6ac5cd594f78c65786165f33"
+  },
+  "product_id": 103,
+  "product_name": "Office Chair",
+  "category": "Furniture",
+  "brand": "GreenSoul",
+  "price": 8500,
+  "stock": 8,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6ac5cd594f78c65786165f35"
+  },
+  "product_id": 105,
+  "product_name": "27 Inch Monitor",
+  "category": "Electronics",
+  "brand": "Samsung",
+  "price": 21780,
+  "stock": 10,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6ac5cd594f78c65786165f36"
+  },
+  "product_id": 106,
+  "product_name": "Study Table",
+  "category": "Furniture",
+  "brand": "UrbanWood",
+  "price": 11000,
+  "stock": 12,
+  "available": true
+}]
