@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6acf1014dca0f188c0c4719b"
+  },
+  "order_id": 9001,
+  "customer_id": 501,
+  "order_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "product": "Ultra Laptop",
+      "quantity": 1,
+      "price": 72000
+    },
+    {
+      "product": "Wireless Mouse",
+      "quantity": 2,
+      "price": 2000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6acf1014dca0f188c0c4719c"
+  },
+  "order_id": 9002,
+  "customer_id": 502,
+  "order_date": {
+    "$date": "2026-09-03T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "product": "Office Desk",
+      "quantity": 1,
+      "price": 14500
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6acf1014dca0f188c0c4719d"
+  },
+  "order_id": 9003,
+  "customer_id": 503,
+  "order_date": {
+    "$date": "2026-09-05T00:00:00.000Z"
+  },
+  "status": "Delivered",
+  "items": [
+    {
+      "product": "Smart Monitor",
+      "quantity": 2,
+      "price": 26000
+    },
+    {
+      "product": "Mechanical Keyboard",
+      "quantity": 1,
+      "price": 5200
+    }
+  ]
+}]
