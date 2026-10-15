@@ -1,0 +1,4 @@
+Processing started.
+Customer records loaded.
+Product records loaded.
+Processing completed successfully.
