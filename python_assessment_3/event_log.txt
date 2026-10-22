@@ -1,5 +1,0 @@
-Event registration processed
-Booking amount calculated
-Event capacity checked
-Registration confirmed
-Event report generated
