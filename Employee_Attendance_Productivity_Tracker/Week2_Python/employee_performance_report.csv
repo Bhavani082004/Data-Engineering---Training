@@ -1,5 +1,0 @@
-employee_id,employee_name,department,days_recorded,days_present,days_absent,total_work_hours,average_work_hours,total_break_hours,total_tasks_assigned,total_tasks_completed,task_completion_rate_pct,productivity_score,performance_category
-4,Meena,IT,3,3,0,21.5,7.17,3.0,14,12,85.71,0.56,High
-1,Arun,IT,3,3,0,21.0,7.0,3.0,11,10,90.91,0.48,High
-2,Priya,HR,3,3,0,21.25,7.08,2.25,10,8,80.0,0.38,High
-3,Rahul,Finance,3,0,3,0.0,0.0,0.0,9,2,22.22,0.0,Needs Review
