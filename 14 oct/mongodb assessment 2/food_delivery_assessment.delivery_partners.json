@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6acf1d3d5f1727689171f6c9"
+  },
+  "partner_id": 201,
+  "partner_name": "Arun Kumar",
+  "city": "Hyderabad",
+  "rating": 4.7,
+  "active": true,
+  "vehicle": "Bike",
+  "skills": [
+    "Food Delivery",
+    "Express Delivery",
+    "Airport Delivery"
+  ],
+  "contact": {
+    "phone": "9876501234",
+    "email": "arun@email.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acf1d3d5f1727689171f6ca"
+  },
+  "partner_id": 202,
+  "partner_name": "Priya Sharma",
+  "city": "Chennai",
+  "rating": 4.6,
+  "active": true,
+  "vehicle": "Scooter",
+  "skills": [
+    "Food Delivery",
+    "Parcel Delivery"
+  ],
+  "contact": {
+    "phone": "9876501235",
+    "email": "priya@email.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acf1d3d5f1727689171f6cb"
+  },
+  "partner_id": 203,
+  "partner_name": "Rahul Verma",
+  "city": "Hyderabad",
+  "rating": 3.9,
+  "active": false,
+  "vehicle": "Bike",
+  "skills": [
+    "Food Delivery",
+    "Grocery Delivery"
+  ],
+  "contact": {
+    "phone": "9876501236",
+    "email": "rahul@email.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "6acf1d3d5f1727689171f6cc"
+  },
+  "partner_id": 204,
+  "partner_name": "Sneha Reddy",
+  "city": "Bangalore",
+  "rating": 4.8,
+  "active": true,
+  "vehicle": "Electric Bike",
+  "skills": [
+    "Food Delivery",
+    "Express Delivery",
+    "Parcel Delivery"
+  ],
+  "contact": {
+    "phone": "9876501237",
+    "email": "sneha@email.com"
+  }
+}]
