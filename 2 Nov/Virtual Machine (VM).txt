@@ -1,0 +1,50 @@
+What is a Virtual Machine (VM)?
+
+A Virtual Machine (VM) is a computer created using software. It works like a normal computer and runs an operating system and applications.
+
+Example: Azure allows us to create virtual computers without buying physical servers.
+
+Components of Azure VM
+CPU: Processes instructions and performs tasks.
+RAM: Temporarily stores data while programs run.
+Storage: Stores files, applications and data.
+Operating System: Runs the VM (Windows or Linux).
+Networking: Connects the VM to other systems and the internet.
+IP Address: Identifies the VM in a network.
+Security: Protects the VM from unauthorised access.
+
+What is Databricks?
+
+Databricks is a cloud-based platform used to store, process, clean, and analyse large amounts of data.
+
+It supports different programming languages like Python, SQL, and PySpark.
+
+Uses of Databricks:
+
+Data processing
+Data cleaning
+Data analysis
+Machine learning
+Data visualization
+What is EDA (Exploratory Data Analysis)?
+
+EDA stands for Exploratory Data Analysis.
+
+EDA is the process of examining and understanding a dataset before performing further analysis.
+
+It helps us identify errors, missing values, patterns, and relationships in the data.
+
+EDA in Databricks
+
+EDA in Databricks means exploring and analysing datasets using Databricks notebooks.
+
+We can use Python, SQL, and PySpark to understand and process data.
+
+Example: Sales Data Analysis
+
+Advantages of EDA
+Helps understand the dataset.
+Identifies missing and incorrect data.
+Helps find patterns and trends.
+Improves data quality.
+Makes further analysis easier.
